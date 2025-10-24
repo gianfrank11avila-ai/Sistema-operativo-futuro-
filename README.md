@@ -3,7 +3,7 @@
 ## Descripción  
 LilboNexus OS es un sistema operativo diseñado especialmente para entornos educativos, tanto presenciales como a distancia. Integra herramientas colaborativas, gestión de aprendizaje personalizada e inteligencia artificial para potenciar la experiencia de estudiantes y docentes en un entorno seguro y accesible.
 
-![Project Image/Screenshot](https://i.ibb.co/3ySB6Bfd/Picsart-25-10-24-09-30-22-579.jpg
+![Project Image/Screenshot](https://i.ibb.co/3ySB6Bfd/Picsart-25-10-24-09-30-22-579.jpg)
 ### Características Principales)
 
 ### Núcleo  
