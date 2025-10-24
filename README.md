@@ -25,6 +25,7 @@ Incorpora autenticación multifactor (contraseña y biometría), control de acce
 Ofrece una interfaz gráfica intuitiva con soporte para comandos de voz y gestos táctiles, facilitando el acceso a personas con distintas capacidades y permitiendo un acceso rápido a recursos y herramientas educativas integradas.
 
 ![Imagem Gemini](https://i.ibb.co/6RLs2BHf/Gemini-Generated-Image-iaay4kiaay4kiaay-1.png)
+
 ## Comparativa con Linux
 
 | Característica      | LilboNexus OS                      | Linux                     |
@@ -34,6 +35,7 @@ Ofrece una interfaz gráfica intuitiva con soporte para comandos de voz y gestos
 | Gestión de memoria   | Segmentación y paginación combinadas | Paginación clásica       |
 | Seguridad           | MFA, cifrado, control por roles  | Listas de control y SELinux |
 | Interfaz            | GUI + voz + gestos               | Principalmente GUI y CLI  |
+
 ![Imagen Generada por Gemini](https://i.ibb.co/5XPmY5GN/Gemini-Generated-Image-iaay4kiaay4kiaay.png)
 
 ## Reflexión  
