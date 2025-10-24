@@ -34,5 +34,6 @@ Ofrece una interfaz gráfica intuitiva con soporte para comandos de voz y gestos
 | Seguridad           | MFA, cifrado, control por roles  | Listas de control y SELinux |
 | Interfaz            | GUI + voz + gestos               | Principalmente GUI y CLI  |
 
+![Imagen Generada por Gemini](https://i.ibb.co/5XPmY5GN/Gemini-Generated-Image-iaay4kiaay4kiaay.png)
 ## Reflexión  
 El desarrollo de LilboNexus OS destaca la importancia de alinear las características técnicas con las verdaderas necesidades del sector educativo. La implementación conjunta de seguridad, accesibilidad y rendimiento demuestra el potencial de la tecnología para mejorar el aprendizaje presencial y a distancia.
